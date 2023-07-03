@@ -1,1 +1,2 @@
 Welcome to GIT Session!
+Session is for 3 days
