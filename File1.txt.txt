@@ -5,4 +5,4 @@ Session Day2 details -
 Will cover git Diff command
 will also cover undo,Revert,reset on day2.
 Understood the Braching
-
+As good practice we need to delete the Brach after merging changes to Master
