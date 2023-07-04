@@ -4,3 +4,4 @@ Session Timining is 10:30
 Session Day2 details -
 Will cover git Diff command.
 will also cover undo,Revert,reset on day2.
+Check the difference also
