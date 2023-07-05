@@ -1,5 +1,5 @@
-Welcome to GIT Session!
-Session is for 3 days
+*********Welcome to GIT Session!***********
+Session is for half days for 3 days
 Session Timining is 10:30
 Session Day2 details -
 Will cover git Diff command
