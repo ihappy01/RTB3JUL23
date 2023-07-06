@@ -13,3 +13,5 @@ As good practice we need to delete the Brach after merging changes to Master
 
 New line added to check stash , Work in progress
 New line added to check pull with conflicts.
+new line added remotelty.
+
