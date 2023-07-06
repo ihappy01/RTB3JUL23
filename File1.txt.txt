@@ -12,3 +12,4 @@ As good practice we need to delete the Brach after merging changes to Master
 
 
 New line added to check stash , Work in progress
+new line added remotelty.
